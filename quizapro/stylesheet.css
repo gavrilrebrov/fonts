@@ -1,0 +1,13 @@
+@font-face {
+	src: url('Quiza-Pro-Italic.otf') format('opentype'), url('Quiza-Pro-Italic.ttf') format('truetype');
+	font-family: 'Quiza Pro';
+	font-weight: 400;
+	font-style: italic;
+}
+
+@font-face {
+	src: url('Quiza-Pro-Regular.otf') format('opentype'), url('Quiza-Pro-Regular.ttf') format('truetype');
+	font-family: 'Quiza Pro';
+	font-weight: 400;
+	font-style: normal;
+}

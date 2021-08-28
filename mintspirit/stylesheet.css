@@ -1,0 +1,27 @@
+@font-face {
+	src: url('MintSpirit-Bold.otf') format('opentype');
+	font-family: 'Mint Spirit';
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	src: url('MintSpirit-BoldItalic.otf') format('opentype');
+	font-family: 'Mint Spirit';
+	font-weight: 700;
+	font-style: italic;
+}
+
+@font-face {
+	src: url('MintSpirit-Italic.otf') format('opentype');
+	font-family: 'Mint Spirit';
+	font-weight: 400;
+	font-style: italic;
+}
+
+@font-face {
+	src: url('MintSpirit-Regular.otf') format('opentype');
+	font-family: 'Mint Spirit';
+	font-weight: 400;
+	font-style: normal;
+}
