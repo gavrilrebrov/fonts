@@ -1,0 +1,20 @@
+@font-face {
+	src: url('PermianSlabSerifTypeface-Bold.otf') format('opentype');
+	font-family: 'Permian Slab Serif';
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	src: url('PermianSlabSerifTypeface-Italic.otf') format('opentype');
+	font-family: 'Permian Slab Serif';
+	font-weight: 400;
+	font-style: italic;
+}
+
+@font-face {
+	src: url('PermianSlabSerifTypeface.otf') format('opentype');
+	font-family: 'Permian Slab Serif';
+	font-weight: 400;
+	font-style: normal;
+}
